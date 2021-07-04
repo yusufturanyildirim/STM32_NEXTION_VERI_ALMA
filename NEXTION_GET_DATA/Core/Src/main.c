@@ -253,7 +253,7 @@ int main(void)
 
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
-  while (1) 					// Link of the project ----------> https://drive.google.com/drive/folders/1TOjfY7Zz7oJZe6wHKMFkQ-OSM1xh747R
+  while (1) 					// Link of the project ----------> https://www.youtube.com/watch?v=psmg-DtpUC4
   {
     /* USER CODE END WHILE */
 
